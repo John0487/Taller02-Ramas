@@ -26,8 +26,8 @@ public class Cancion implements Comparable<Cancion> {
     private List<Integer> historialPos; //lista con todas las posiciones que ha tenido en el ranking
 
     public Cancion(String titulo, String cantante, String imagen, int posActual, int posPrevia, int semanas, List<Integer> historialPos) {
-        this.titulo = titulo;
         this.cantante = cantante;
+        this.titulo = titulo;
         this.imagen = imagen;
         this.posActual = posActual;
         this.posPrevia = posPrevia;
