@@ -12,3 +12,5 @@ Integrante 1 ORDEN - Jose Mora
 
 Integrante#2 CAMBIO DE NOMBRE - Jostin Mora
 ![image](https://github.com/user-attachments/assets/3f44330b-336b-4f85-90e4-214c30d5e4f9)
+![image](https://github.com/user-attachments/assets/9ec98634-10de-4cf4-979a-1cc883ae00bd)
+
