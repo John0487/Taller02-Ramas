@@ -6,6 +6,7 @@ package modelo;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.io.*;
 
@@ -97,7 +98,13 @@ public class Cancion implements Comparable<Cancion> {
 
     @Override
     public int compareTo(Cancion o) {
-        return posActual - o.posActual;
+        return  o.posActual - posActual;
+    }
+
+    public static List<Cancion> Obtenertop10(){
+        List<Cancion> canciones = leerCanciones();
+        Collections.sort(canciones);
+        return canciones.stream().limit(10).toList();
     }
 
 }
