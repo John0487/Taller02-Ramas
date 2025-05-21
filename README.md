@@ -1,6 +1,7 @@
 # Taller02-Ramas
  Lider TITULO - John Carreño
  ![captura1](https://github.com/user-attachments/assets/aa8f257e-58a9-4eb9-9591-703ab12b1655)
+![captura1](https://github.com/user-attachments/assets/14cdd069-fd01-4bb7-a9af-320196eaf58e)
 
 
 Integrante 1 ORDEN - Jose Mora
